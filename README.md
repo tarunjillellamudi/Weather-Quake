@@ -1,6 +1,6 @@
 # 🌍 **Rescue Ring: Revolutionizing Disaster Management** 🚨
 
-Welcome to **Rescue Ring**, a cutting-edge disaster management platform designed to empower communities during natural calamities. Featuring seamless communication, real-time alerts, and efficient resource coordination, Rescue Ring ensures that **no one is left behind** when disaster strikes. 
+Welcome to **Weather&Quake**, a cutting-edge disaster management platform designed to empower communities during natural calamities. Featuring seamless communication, real-time alerts, and efficient resource coordination, Rescue Ring ensures that **no one is left behind** when disaster strikes. 
 
 ---
 
